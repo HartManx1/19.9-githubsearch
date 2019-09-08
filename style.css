@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+form {
+    display: inline-grid;
+}
+
+label {
+    font-size: 32px;
+}
+
+input {
+    font-size: 25px;
+    font-family: 'Cinzel', serif;
+    border-radius: 5px;
+}
+
+img {
+    margin-top: 10px;
+}
+
+p {
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
